@@ -1,0 +1,8 @@
+.header-base {
+    background-color: red;
+    height: 8vh;
+    width: 100%;
+    padding: 6px;
+    display: flex;
+    align-items: center;
+}
