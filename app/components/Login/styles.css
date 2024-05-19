@@ -1,0 +1,21 @@
+.central {
+    display: flex;
+    height: 92vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-form {
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px;
+    padding: 50px;
+}
+
+.container-logo {
+    background-color: brown;
+    margin: 200px;
+}
