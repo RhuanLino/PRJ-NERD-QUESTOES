@@ -6,7 +6,6 @@
 }
 
 .container-form {
-    background-color: aqua;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -16,6 +15,10 @@
 }
 
 .container-logo {
-    background-color: brown;
-    margin: 200px;
+    margin: 100px;
+}
+
+.email {
+    border-radius: 17px solid #000;
+    margin-bottom: 20px;
 }

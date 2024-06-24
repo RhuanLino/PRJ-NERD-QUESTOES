@@ -1,12 +1,11 @@
 import React from "react";
-import Header from "./components/Header/index"
-import Login from './components/Login/index' 
+import Home from "./home/page";
 
-export default function Home() {
+export default function Page() {
+
   return (
     <main>
-      <Header />
-      <Login />
+      <Home />
     </main>
   );
 }

@@ -4,7 +4,7 @@ import "./styles.css"
 const Header = () => {
     return ( 
         <div>
-            <header className="header-base">Bom dia</header>
+            <header className="header-base"></header>
         </div>
     );
 }
