@@ -4,7 +4,7 @@ import "./styles.css"
 const Header = () => {
     return ( 
         <div>
-            <header className="header-base"></header>
+            <header className="header-base" />
         </div>
     );
 }

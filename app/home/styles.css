@@ -1,4 +1,43 @@
-.nav {
+.header {
+    background-color: red;
+    height: 8vh;
     display: flex;
+}
+
+.esquerda {
+    display: flex;
+    padding-left: 50px;
+}
+
+.direita {
+    width: 100%;
+    display: flex;
+    padding-inline: 40px;
+    align-items: center;
     justify-content: end;
 }
+
+.nav {
+    display: flex;
+    text-align: center; 
+    padding: 14px 50px;
+    color: white;
+}
+
+.opcoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.opcoes li{
+    margin-left: 50px;
+    font-size: 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.logo {
+    cursor: pointer;
+}
+

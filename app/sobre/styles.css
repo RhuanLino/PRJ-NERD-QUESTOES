@@ -1,0 +1,27 @@
+div {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.header {
+    background-color: red;
+    height: 8vh;
+    padding-left: 50px;
+}
+
+.texto {
+    width: 60%;
+    position: absolute;
+    left: 10px;
+    font-size: 33px;
+    text-align: left;
+    text-indent: 50px;
+    padding: 40px;
+}
+
+img {
+    cursor: pointer;
+}
